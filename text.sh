@@ -1,6 +1,6 @@
 #!/bin/bash
 salary=1000
-expenses=800
+expenses=1000
 #check if salary and expenses are equal
 if [ $salary == $expenses ];
 then
